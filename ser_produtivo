@@ -40,6 +40,8 @@ O *E* se refere a eficiência, medindo o tempo despendido no desenvolvimento e o
 Eficiência da pipeline de deploy(Empresa).
 Demonstra o tempo real necessário para a resolução de um problema/bug até o deploy;
 
+Desse modo o Framework SPACE consegue gerar uma métrica bem mais completa da produtividade de um indivíduo, equipe e/ou empresa do que medir unicamente a velocidade de entrega
+do código.
 ---
 
 ## Referências
