@@ -6,14 +6,41 @@
 
 ---
 
-## 1. Conceito de Produtividade de acordo com o Framework SPACE
+## 1. Conceito de Produtividade
 
-### 1.1 
+### 1.1 Conceito de Produtividade de acordo com o artigo da METR
+Durante as pesquisas realizadas para medir o impacto da IA no desenvolvimento, foi utilizado a métrica de quanto tempo era necessário desde o programador iniciar a 
+desenvolver, revisar, testar até finalmente entregar a implementação. O que permitiu visualizar a diferença entre a percepção de tempo investido do desenvolvedor e
+o tempo real para realizar a tarefa solicitada. 
+É uma métrica bem objetiva, só se preocupando que o problema seja resolvido no menor tempo possível.
 
+### 1.2 Conceito de Produtividade de acordo com o Framework SPACE
+Pesquisando um método que abranja mais o conceito de produtividade dentro do âmbito de desenvolvimento de software, encontramos o Framework SPACE.
+O SPACE foi desenvolvido por pesquisadores da Microsoft Research e do Github em parceria com a Universidade de Victoria.
+A proposta é medir de forma mais ampla a produtividade tanto do indivíduo, quanto da equipe e até da empresa.
+SPACE tem esse nome pelos 5 conceitos que o norteia, onde:
 
+O *S* se refere a satisfação no ambiente de trabalho com métricas como Indicador de Burnout (Individual) , Moral da Equipe (Equipe) e eNPS(Employee Net Promoter Score)
+(Empresa).
+A importância é dada pelo fato que empregados trabalham melhor quando se sentem bem no trabalho;
+
+O *P* se refere a performance/desempenho, medindo a qualidade do que é produzido, com métricas como Impacto das Funcionalidades(Individual), Frequência de Incidentes(Equipe)
+e Confiabilidade(Empresa). 
+Demonstra que está sendo gerado algo relevante na empresa;
+
+O *A* se refere a atividade, medindo a quantidade de ações realizadas, com métricas como Commits e PRs(Individual), Frequência de Implantação(Equipe) e Cadência de Lançamento
+(Empresa).
+Demonstra a quantidade de tarefas executadas na empresa;
+
+O *C* se refere a comunicação, medindo o compartilhamento de informações, com métricas como Revisão do Código(Individual), Qualidade da Documentação(Equipe) e Integração
+(Empresa)
+Demonstra a boa integração entre os desenvolvedores e documentação do que é feito;
+
+O *E* se refere a eficiência, medindo o tempo despendido no desenvolvimento e o foco, com métricas como Tempo em Fluxo contínuo (Individual), Tempo de Merge(Equipe)
+Eficiência da pipeline de deploy(Empresa).
+Demonstra o tempo real necessário para a resolução de um problema/bug até o deploy;
 
 ---
-
 
 ## Referências
 
